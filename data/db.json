@@ -23,6 +23,12 @@
       "details": "This will be the best birthday ever",
       "category": "reminders",
       "id": 4
+    },
+    {
+      "title": "Pay the bills ",
+      "details": "everything internet, subs etc",
+      "category": "money",
+      "id": 5
     }
   ]
 }

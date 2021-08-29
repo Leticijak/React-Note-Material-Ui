@@ -66,7 +66,7 @@ export default function Create() {
   }
 
   return (
-    <Container>
+    <Container maxWidth="sm">
       <Typography as="h6" color="textSecondary" component="h2" gutterBottom>
         Create a new Note
       </Typography>
